@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # moog
 
 Moog provides object oriented programming services, with rich support for asynchronous constructors, modification of constructor parameters by subclasses, and "implicit subclassing" that allows a class to be replaced in a way that is transparent to end users.
